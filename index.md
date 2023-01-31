@@ -9,11 +9,11 @@
 <p> wearable medical devices have ability to provide real-time data. This can be especially helpful for individuals who are trying to make lifestyle changes, such as increasing their physical activity or improving their sleep habits. By being able to see their progress in real-time, they can make adjustments as needed and stay motivated to reach their goals. However, there are also some potential downsides to these devices. One concerns is privacy and security. As these devices collect personal health information, it's important to ensure that this data is protected from un-authorized access. Additionally, some experts have also raised concerns about the accuracy of data collected. As well as the potential risks for "data overload", where the individuals become overwhelmed by the amount of information they are receiving.</p>
 
 <h1 id="header">
-<h1>How does they work?</h1>
+<h1 align="center">How does they work?</h1>
 
 <p>Wearable medical devices use sensors to collect data from the wearer's body. For example, a wearable heart monitor may use electrocardiogram(ECG) sensor to track the electrical signals of the heart. The collected data is then processes by the algorithms built inside the device. This processing helps to clean and interpret the data, making it more useful for further analysis. The processed data is then communicated to other devices such as smartphones,laptops, or cloud-based servers. This communication is usually done wirelessely using technologies such as Bluetooth or Wi-Fi.
   
-<centre><img src="https://user-images.githubusercontent.com/116094050/215462338-5c36a962-3eb7-438d-8f4c-91545ce1509f.jpg" alt="centered image" height="500" width="1100"> </center>
+<centre><img src="https://user-images.githubusercontent.com/116094050/215462338-5c36a962-3eb7-438d-8f4c-91545ce1509f.jpg" alt="centered image" height="500" width="1100">
   
 <p>The received data is then analyzed to extract useful informations. This analysis can be performed by the device itself, or it can be performed by third-patry software. Based on the analysis of the data, the device can provide feedback to the wearer in the form of alerts, notifications, or visualizations. This feedback can help the wearer make informed decisions about their health and wellness. Wearable medical devices can also share the collected data with the healthcare providers, allowing them to monitor the health of their patients remotely. This can help providers make more informed treatment decisions and improve health results.</p>
 
