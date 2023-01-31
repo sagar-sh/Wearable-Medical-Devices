@@ -84,32 +84,32 @@ alt="centered image" height="300" width="900"> </center>
 
 <p> Demand for medical and consumer wearables will no doubt increase in the coming future times. This is very friendly and offers many opportunities to improve the healthcare environment. However, you must need a reliable technology partner to provide portable software development services to be successful in this technological area. In general, wearable medical devices have the potential to improve the quality of patients care, but it is also important to ensure that they are used appropriately and under the guidance of a healthcare professional which helps to minimize some unintentional risks. Everything has some flaws but by minimizing those little flaws we can make our future better by the help of these wearable medical devices.</p>
 
+  
 <h1 align="left">References</h1>
-
-<ul>
+     
+   <ul>
+  <li>https://en.wikipedia.org/wiki/Wearable_computer</li>
   
-  <ul>
-   
-    
-    <li><a href="https://en.wikipedia.org/wiki/Wearable_computer"</a></li>
-  
-  <li><a href="https://www.insiderintelligence.com/insights/wearable-technology-healthcare-medical-devices/"</a>
+  <li>https://www.insiderintelligence.com/insights/wearable-technology-healthcare-medical-devices/
   </li>
   
-  <li><a href="https://www.wearable-technologies.com/2018/10/the-state-of-wearable-technology-in-healthcare-current-and-future/"</a></li>
+  <li>https://www.wearable-technologies.com/2018/10/the-state-of-wearable-technology-in-healthcare-current-and-future/</li>
   
-  <li><a href="https://www.towerfast.com/press-room/the-future-of-wearable-medical-devices"</a></li>
+  <li>https://www.towerfast.com/press-room/the-future-of-wearable-medical-devices</li>
   
-  <li><a href="https://funginstitute.berkeley.edu/news/op-ed-the-potential-of-wearable-health-technologies-on-the-future/"</a></li>
+  <li>https://funginstitute.berkeley.edu/news/op-ed-the-potential-of-wearable-health-technologies-on-the-future/</li>
   
-  <li><a href="https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology"</a></li>
+  <li>https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology</li>
   
-  <li><a href="https://techno-soft.com/wearable-technology-in-healthcare.html"</a></li>
+  <li>https://techno-soft.com/wearable-technology-in-healthcare.html</li>
   
-  <li><a href="https://mhealthintelligence.com/features/how-wearables-can-enhance-cardiac-care-boost-patient-engagement"</a></li> 
+  <li>https://mhealthintelligence.com/features/how-wearables-can-enhance-cardiac-care-boost-patient-engagement</li>
+  
+  
+</ul>  
+
     
-    
-  </ul> 
+ 
   
      
             
