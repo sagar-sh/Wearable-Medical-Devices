@@ -1,5 +1,7 @@
 title: Wearable Medical Devices
 description: Wearable Medical Devices In Healthcare system
 
-theme: jekyll-theme-cayman
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+plugins:
+  - jekyll-remote-theme
 
