@@ -3,7 +3,7 @@
 <h5 align="left"><em>Written By: Sagar Sharma</em></h5>
 <h1 id="header">
 <h1 align="center">Wearable Medical Devices</h1>
-<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Wearable Medical Devices"<"Wearable Medical Devices"</a>
+<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Wearable Medical Devices"<"Wearable Medical Devices";</a>
 </h1>
 <p>Wearable medical devices, also known as "Wearable Health Technology", are devices that can be worn on the body to monitor and track various aspects of health and fitness. These devices can range from simple pedometers and heart rate monitors to more and more advanced devices that track sleep patterns, blood pressure, and even glucose levels. One of the biggest advantages of wearable medical devices is their convenience. Many of these devices can be worn throughout the day and night, allowing for continuous monitoring of a person's health. This can be especially useful for individuals with chronic conditions, such as diabetes or heart disease, as it allows them to track their symptoms and make adjustments to their treatment plan as needed.</p>
 
@@ -11,7 +11,7 @@
 
 <h1 id="header">
 <h1 align="center">How does they work?</h1>
-<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="How does they work?"<"How does they work?"</a>
+<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="How does they work?"<"How does they work?";</a>
 </h1>
 <p>Wearable medical devices use sensors to collect data from the wearer's body. For example, a wearable heart monitor may use electrocardiogram(ECG) sensor to track the electrical signals of the heart. The collected data is then processes by the algorithms built inside the device. This processing helps to clean and interpret the data, making it more useful for further analysis. The processed data is then communicated to other devices such as smartphones,laptops, or cloud-based servers. This communication is usually done wirelessely using technologies such as Bluetooth or Wi-Fi.
   
@@ -20,7 +20,7 @@
 <p>The received data is then analyzed to extract useful informations. This analysis can be performed by the device itself, or it can be performed by third-patry software. Based on the analysis of the data, the device can provide feedback to the wearer in the form of alerts, notifications, or visualizations. This feedback can help the wearer make informed decisions about their health and wellness. Wearable medical devices can also share the collected data with the healthcare providers, allowing them to monitor the health of their patients remotely. This can help providers make more informed treatment decisions and improve health results.</p>
 
 <h1 align="center">Uses of Wearable Medical Devices</h1>
-<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Uses of Wearable Medical Devices"<"Uses of Wearable Medical Devices"</a>
+<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Uses of Wearable Medical Devices"<"Uses of Wearable Medical Devices";</a>
 </h1>
 <p> Wearable medical devices have a variety of potential uses in the heathcare system, including: </p>
   
@@ -87,13 +87,13 @@ alt="centered image" height="300" width="900"> </center>
 </ul>  
 
 <h1 align="center">Conclusion</h1>
-<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Conclusion"<"Conclusion"</a> 
+<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Conclusion"<"Conclusion";</a> 
 </h1>
 
 <p> Demand for medical and consumer wearables will no doubt increase in the coming future times. This is very friendly and offers many opportunities to improve the healthcare environment. However, you must need a reliable technology partner to provide portable software development services to be successful in this technological area. In general, wearable medical devices have the potential to improve the quality of patients care, but it is also important to ensure that they are used appropriately and under the guidance of a healthcare professional which helps to minimize some unintentional risks. Everything has some flaws but by minimizing those little flaws we can make our future better by the help of these wearable medical devices.</p>
 
 <h1 align="left">References</h1>
-<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Conclusion"<"Conclusion"</a> 
+<a rel="noopener" target="_blank" rel="noopener" target="_blank" href="Conclusion"<"Conclusion";</a> 
 </h1>
 
 <ul>
