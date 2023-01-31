@@ -87,22 +87,22 @@ alt="centered image" height="300" width="900"> </center>
 <h1 align="left">References</h1>
 
 <ul>
-  <li>https://en.wikipedia.org/wiki/Wearable_computer</li>
   
-  <li>https://www.insiderintelligence.com/insights/wearable-technology-healthcare-medical-devices/
-  </li>
+  <link href="https://en.wikipedia.org/wiki/Wearable_computer" rel="stylesheet">
   
-  <li>https://www.wearable-technologies.com/2018/10/the-state-of-wearable-technology-in-healthcare-current-and-future/</li>
+  <link href="https://www.insiderintelligence.com/insights/wearable-technology-healthcare-medical-devices/" rel="stylesheet">
   
-  <li>https://www.towerfast.com/press-room/the-future-of-wearable-medical-devices</li>
+  <link href="https://www.wearable-technologies.com/2018/10/the-state-of-wearable-technology-in-healthcare-current-and-future/" rel="stylesheet">
   
-  <li>https://funginstitute.berkeley.edu/news/op-ed-the-potential-of-wearable-health-technologies-on-the-future/</li>
+  <link href="https://www.towerfast.com/press-room/the-future-of-wearable-medical-devices" rel="stylesheet">
   
-  <li>https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology</li>
+  <link href="https://funginstitute.berkeley.edu/news/op-ed-the-potential-of-wearable-health-technologies-on-the-future/" rel="stylesheet">
   
-  <li>https://techno-soft.com/wearable-technology-in-healthcare.html</li>
+  <link href="https://www.techtarget.com/searchmobilecomputing/definition/wearable-technology" rel="stylesheet">
   
-  <li>https://mhealthintelligence.com/features/how-wearables-can-enhance-cardiac-care-boost-patient-engagement</li>
+  <link href="https://techno-soft.com/wearable-technology-in-healthcare.html" rel="stylesheet">
   
+ <link href="https://mhealthintelligence.com/features/how-wearables-can-enhance-cardiac-care-boost-patient-engagement" rel="stylesheet">
+ 
   
 </ul>  
