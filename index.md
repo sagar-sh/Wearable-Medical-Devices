@@ -10,7 +10,6 @@
 
 <h1 id="header">
 <h1 align="center">How does they work?</h1>
-</h1>
 
 <p>Wearable medical devices use sensors to collect data from the wearer's body. For example, a wearable heart monitor may use electrocardiogram(ECG) sensor to track the electrical signals of the heart. The collected data is then processes by the algorithms built inside the device. This processing helps to clean and interpret the data, making it more useful for further analysis. The processed data is then communicated to other devices such as smartphones,laptops, or cloud-based servers. This communication is usually done wirelessely using technologies such as Bluetooth or Wi-Fi.
   
