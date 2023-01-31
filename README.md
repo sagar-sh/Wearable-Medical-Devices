@@ -1,2 +1,0 @@
-# myblog
-Wearable medical devices
