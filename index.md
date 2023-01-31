@@ -9,7 +9,7 @@
 <p> wearable medical devices have ability to provide real-time data. This can be especially helpful for individuals who are trying to make lifestyle changes, such as increasing their physical activity or improving their sleep habits. By being able to see their progress in real-time, they can make adjustments as needed and stay motivated to reach their goals. However, there are also some potential downsides to these devices. One concerns is privacy and security. As these devices collect personal health information, it's important to ensure that this data is protected from un-authorized access. Additionally, some experts have also raised concerns about the accuracy of data collected. As well as the potential risks for "data overload", where the individuals become overwhelmed by the amount of information they are receiving.</p>
 
 <h1 id="header">
-<h1 align="center">How does they work?</h1>
+<h1>How does they work?</h1>
 
 <p>Wearable medical devices use sensors to collect data from the wearer's body. For example, a wearable heart monitor may use electrocardiogram(ECG) sensor to track the electrical signals of the heart. The collected data is then processes by the algorithms built inside the device. This processing helps to clean and interpret the data, making it more useful for further analysis. The processed data is then communicated to other devices such as smartphones,laptops, or cloud-based servers. This communication is usually done wirelessely using technologies such as Bluetooth or Wi-Fi.
   
