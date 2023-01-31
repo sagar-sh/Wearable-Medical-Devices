@@ -68,8 +68,7 @@
   
 </ul>
 
-<center><img src="https://user-images.githubusercontent.com/116094050/215489030-8f67c794-50ec-4245-9456-216598c0fa0e.jpg"
-alt="centered image" height="300" width="900"> </center>             
+<center><img src="https://user-images.githubusercontent.com/116094050/215850751-639e10ed-b51c-4e2a-a279-af60fd9feff0.png" alt="centered image" height="300" width="900"> </center>          
 
 <ul>
 <li> Cost: Wearable devices can be expensive, and may not be covered by insurance. And even in this developing world all people are not in that reach to use those Hi-Fi medical devices. For, everyone's reach the price must be kept low and this will only get happen when those technological companies where happy to make their business in loss.</li>
