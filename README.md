@@ -64,7 +64,7 @@
 <ul>
 <li> Limited accuracy: Some wearable devices may not be as accurate as traditional medical devices. Technologies also has some flaws they can’t work 100% efficiently. So, by using those technological devices sometimes the mathematics can be upside down.</li>
   
-<li> Privacy concerns: Wearable devices collect and store sensitive personal health information, which can be vulnerable to hacking or data breaches. In this modern area, everything was cloud based and even the patients details were stored in cloud memory. So, these things also have privacy concerns because if mistakely some got the data and may be he can use those personal datas for some negative works.</li>
+<li> Privacy concerns: Wearable devices collect and store sensitive personal health information, which can be vulnerable to hacking or data breaches. In this modern area, everything was cloud based and even the patients details were stored in cloud memory. </li>
   
 </ul>
 
